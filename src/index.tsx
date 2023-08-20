@@ -4,8 +4,10 @@ import ReactDOM from 'react-dom/client';
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
 // routes
 import Home from './routes/home';
+import TokenDashboard from "./routes/tokenDashboard";
 import CurrentToken from "./routes/currentToken";
 // styles
+import "./font.css"
 import './index.css';
 
 const router = createBrowserRouter([
@@ -14,9 +16,13 @@ const router = createBrowserRouter([
     element: <Home />,
   },
   {
+    path: "/token-dashboard",
+    element: <TokenDashboard />,
+  },
+  {
     path: "/current-token",
-    element: <CurrentToken />
-  }
+    element: <CurrentToken />,
+  },
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
