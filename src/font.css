@@ -2,3 +2,15 @@
     font-family: "Phoenica Std";
     src: url("./assets/fonts/phoenica_std_demo.otf");
 }
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('./assets/fonts/BrandingSF-NarrowMedium.eot');
+    src: local('Branding SF Narrow Medium'), local('BrandingSF-NarrowMedium'),
+        url('./assets/fonts/BrandingSF-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/BrandingSF-NarrowMedium.woff2') format('woff2'),
+        url('./assets/fonts/BrandingSF-NarrowMedium.woff') format('woff'),
+        url('./assets/fonts/BrandingSF-NarrowMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
