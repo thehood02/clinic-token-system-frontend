@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Branding SF Narrow Black It';
+    src: url('BrandingSF-NarrowBlackIt.eot');
+    src: local('Branding SF Narrow Black It'), local('BrandingSF-NarrowBlackIt'),
+        url('BrandingSF-NarrowBlackIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowBlackIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowBlackIt.woff') format('woff'),
+        url('BrandingSF-NarrowBlackIt.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowBold.eot');
+    src: local('Branding SF Narrow Bold'), local('BrandingSF-NarrowBold'),
+        url('BrandingSF-NarrowBold.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowBold.woff2') format('woff2'),
+        url('BrandingSF-NarrowBold.woff') format('woff'),
+        url('BrandingSF-NarrowBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow Light It';
+    src: url('BrandingSF-NarrowLightIt.eot');
+    src: local('Branding SF Narrow Light It'), local('BrandingSF-NarrowLightIt'),
+        url('BrandingSF-NarrowLightIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowLightIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowLightIt.woff') format('woff'),
+        url('BrandingSF-NarrowLightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowBlack.eot');
+    src: local('Branding SF Narrow Black'), local('BrandingSF-NarrowBlack'),
+        url('BrandingSF-NarrowBlack.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowBlack.woff2') format('woff2'),
+        url('BrandingSF-NarrowBlack.woff') format('woff'),
+        url('BrandingSF-NarrowBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow Bold It';
+    src: url('BrandingSF-NarrowBoldIt.eot');
+    src: local('Branding SF Narrow Bold It'), local('BrandingSF-NarrowBoldIt'),
+        url('BrandingSF-NarrowBoldIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowBoldIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowBoldIt.woff') format('woff'),
+        url('BrandingSF-NarrowBoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowLight.eot');
+    src: local('Branding SF Narrow Light'), local('BrandingSF-NarrowLight'),
+        url('BrandingSF-NarrowLight.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowLight.woff2') format('woff2'),
+        url('BrandingSF-NarrowLight.woff') format('woff'),
+        url('BrandingSF-NarrowLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow Thin It';
+    src: url('BrandingSF-NarrowThinIt.eot');
+    src: local('Branding SF Narrow Thin It'), local('BrandingSF-NarrowThinIt'),
+        url('BrandingSF-NarrowThinIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowThinIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowThinIt.woff') format('woff'),
+        url('BrandingSF-NarrowThinIt.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowSemiBold.eot');
+    src: local('Branding SF Narrow SemiBold'), local('BrandingSF-NarrowSemiBold'),
+        url('BrandingSF-NarrowSemiBold.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowSemiBold.woff2') format('woff2'),
+        url('BrandingSF-NarrowSemiBold.woff') format('woff'),
+        url('BrandingSF-NarrowSemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow SemiLight It';
+    src: url('BrandingSF-NarrowSemiLightIt.eot');
+    src: local('Branding SF Narrow SemiLight It'), local('BrandingSF-NarrowSemiLightIt'),
+        url('BrandingSF-NarrowSemiLightIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowSemiLightIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowSemiLightIt.woff') format('woff'),
+        url('BrandingSF-NarrowSemiLightIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow SemiBold It';
+    src: url('BrandingSF-NarrowSemiBoldIt.eot');
+    src: local('Branding SF Narrow SemiBold It'), local('BrandingSF-NarrowSemiBoldIt'),
+        url('BrandingSF-NarrowSemiBoldIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowSemiBoldIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowSemiBoldIt.woff') format('woff'),
+        url('BrandingSF-NarrowSemiBoldIt.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowMedium.eot');
+    src: local('Branding SF Narrow Medium'), local('BrandingSF-NarrowMedium'),
+        url('BrandingSF-NarrowMedium.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowMedium.woff2') format('woff2'),
+        url('BrandingSF-NarrowMedium.woff') format('woff'),
+        url('BrandingSF-NarrowMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow Medium It';
+    src: url('BrandingSF-NarrowMediumIt.eot');
+    src: local('Branding SF Narrow Medium It'), local('BrandingSF-NarrowMediumIt'),
+        url('BrandingSF-NarrowMediumIt.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowMediumIt.woff2') format('woff2'),
+        url('BrandingSF-NarrowMediumIt.woff') format('woff'),
+        url('BrandingSF-NarrowMediumIt.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow';
+    src: url('BrandingSF-NarrowThin.eot');
+    src: local('Branding SF Narrow Thin'), local('BrandingSF-NarrowThin'),
+        url('BrandingSF-NarrowThin.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowThin.woff2') format('woff2'),
+        url('BrandingSF-NarrowThin.woff') format('woff'),
+        url('BrandingSF-NarrowThin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Branding SF Narrow SemiLight';
+    src: url('BrandingSF-NarrowSemiLight.eot');
+    src: local('Branding SF Narrow SemiLight'), local('BrandingSF-NarrowSemiLight'),
+        url('BrandingSF-NarrowSemiLight.eot?#iefix') format('embedded-opentype'),
+        url('BrandingSF-NarrowSemiLight.woff2') format('woff2'),
+        url('BrandingSF-NarrowSemiLight.woff') format('woff'),
+        url('BrandingSF-NarrowSemiLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

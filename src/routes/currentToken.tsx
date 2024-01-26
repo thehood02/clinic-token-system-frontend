@@ -1,9 +1,9 @@
-import {FC, useEffect, useState} from "react";
+import {useState, useEffect} from "react";
 
 import { getCurrentToken } from "../api/api";
 
-const CurrentToken:FC = () => {
-    const [currentToken, setCurrentToken] = useState<String>("");
+const CurrentToken = () => {
+    const [currentToken, setCurrentToken] = useState<String>("T-102");
     const [error, setError] = useState<String>("");
 
     useEffect(() => {
@@ -19,7 +19,14 @@ const CurrentToken:FC = () => {
         }
     }
 
-    return <div>{currentToken}</div>
+    return (
+      <main>
+        <div className="card">
+            <p className="card__title">Current Token</p>
+            <p className="card__body">{currentToken}</p>
+        </div>
+      </main>
+    );
 }
 
 export default CurrentToken;

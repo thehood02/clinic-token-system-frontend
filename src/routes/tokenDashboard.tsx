@@ -1,6 +1,6 @@
-import {FC, useState} from "react";
+import {useState} from "react";
 
-const TokenDashboard: FC = () => {
+const TokenDashboard = () => {
   const [tokenList, setTokenList] = useState([]);
 
   return <div>token dashboard</div>;
