@@ -7,7 +7,6 @@ import Home from './routes/home';
 import TokenDashboard from "./routes/tokenDashboard";
 import CurrentToken from "./routes/currentToken";
 // styles
-import "./font.css"
 import './index.css';
 
 const router = createBrowserRouter([
